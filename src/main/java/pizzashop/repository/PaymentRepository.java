@@ -74,7 +74,7 @@ public class PaymentRepository {
         try {
             bw = new BufferedWriter(new FileWriter(file));
             for (Payment p : paymentList) {
-                System.out.println(p.toString());
+                //System.out.println(p.toString());
                 bw.write(p.toString());
                 bw.newLine();
             }

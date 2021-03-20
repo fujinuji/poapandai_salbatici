@@ -22,7 +22,11 @@ public class PizzaService {
 
     public List<Payment> getPayments(){return payRepo.getAll(); }
 
-    public void addPayment(int table, PaymentType type, double amount){
+    public void addPayment(int table, PaymentType type, double amount) throws Exception {
+        if (table < 1 || table > 8)
+            throw new Exception("Error message: Invalid table\n");
+        if (amount <= 0 )
+            throw new Exception("Error message: Amount must be > 0\n");
         Payment payment= new Payment(table, type, amount);
         payRepo.add(payment);
     }
