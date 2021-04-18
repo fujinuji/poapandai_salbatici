@@ -1,0 +1,37 @@
+
+Q	java:S125s"<This block of commented-out lines of code should be removed.(‘Üã«
+N	java:S106y"9Replace this use of System.out or System.err by a logger.(¢ùù
+P
+java:S2209}"5Change this instance-reference to a static reference.(…î˜±ÿÿÿÿÿ
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(ú•€Ë
+J
+java:S3740"/Provide the parametrized type for this generic.(ƒÀÒëüÿÿÿÿ
+r
+java:S1450?"WRemove the "menuData" field and declare it as a local variable in the relevant methods.(ž³£–øÿÿÿÿ
+V	java:S125?"<This block of commented-out lines of code should be removed.(ž³£–øÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(ÎÃßÓüÿÿÿÿ
+p
+java:S1104="ZMake observableList a static final constant or non-public and provide accessors if needed.(Ù½©Æ
+—
+java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ç”Æ¨
+G
+java:S1602`",Remove useless curly braces around statement(’íüþùÿÿÿÿ
+H
+java:S1602",Remove useless curly braces around statement(¸¯¥–úÿÿÿÿ
+N	java:S106x"9Replace this use of System.out or System.err by a logger.(ÑºŠ‰
+J
+java:S10680"4Remove this unused "orderPaymentList" private field.(ù°Ø
+E
+java:S3740"/Provide the parametrized type for this generic.(×è¸–
+n
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ÊØ
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(ú•€Ë
+K
+java:S26967"6Make the enclosing method "static" or remove this set.(¢Ôä
+E
+java:S3740"/Provide the parametrized type for this generic.(ÃÓä«
+S
+java:S1155Y">Use isEmpty() to check whether the collection is empty or not.(„û¢,
+J
+java:S3740"/Provide the parametrized type for this generic.(èöâáøÿÿÿÿ

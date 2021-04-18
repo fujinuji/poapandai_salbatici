@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.NoSuchElementException;
 import java.util.StringTokenizer;
 
-public class MenuRepository {
+public class MenuRepository implements IMenuRepository {
     private static String filename = "data/menu.txt";
     private List<MenuDataModel> listMenu;
 
