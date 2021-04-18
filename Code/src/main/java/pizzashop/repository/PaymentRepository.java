@@ -1,7 +1,5 @@
 package pizzashop.repository;
 
-import javafx.collections.ObservableList;
-import pizzashop.model.MenuDataModel;
 import pizzashop.model.Payment;
 import pizzashop.model.PaymentType;
 
@@ -52,7 +50,7 @@ public class PaymentRepository implements IPaymentRepository{
             item = new Payment(tableNumber, PaymentType.valueOf(type), amount);
             return item;
         } catch (NumberFormatException | NoSuchElementException e) {
-            e.printStackTrace();
+//            e.printStackTrace();
             return null;
         }
     }
@@ -79,7 +77,7 @@ public class PaymentRepository implements IPaymentRepository{
         try {
             bw = new BufferedWriter(new FileWriter(file));
             for (Payment p : paymentList) {
-                //System.out.println(p.toString());
+//                System.out.println(p.toString());
                 bw.write(p.toString());
                 bw.newLine();
             }

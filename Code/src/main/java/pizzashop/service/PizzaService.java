@@ -3,6 +3,7 @@ package pizzashop.service;
 import pizzashop.model.MenuDataModel;
 import pizzashop.model.Payment;
 import pizzashop.model.PaymentType;
+import pizzashop.repository.IMenuRepository;
 import pizzashop.repository.IPaymentRepository;
 import pizzashop.repository.MenuRepository;
 import pizzashop.repository.PaymentRepository;
@@ -10,13 +11,10 @@ import pizzashop.repository.PaymentRepository;
 import java.util.List;
 
 public class PizzaService {
-
-
-
-    private MenuRepository menuRepo;
+    private IMenuRepository menuRepo;
     private IPaymentRepository payRepo;
 
-    public PizzaService(MenuRepository menuRepo, IPaymentRepository payRepo){
+    public PizzaService(IMenuRepository menuRepo, IPaymentRepository payRepo){
         this.menuRepo=menuRepo;
         this.payRepo=payRepo;
     }
