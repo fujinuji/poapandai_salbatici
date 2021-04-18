@@ -1,0 +1,36 @@
+
+i	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å­åÂÿÿÿÿÿ
+b	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¬ƒ
+c	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ë¸Ö
+h	java:S100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ð’”Ëÿÿÿÿÿ
+d	java:S100ˆ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É Ó‚
+i	java:S100³"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄîÊçþÿÿÿÿ
+c	java:S100|"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ›¾Ã
+^
+java:S1128
+"CRemove this unused import 'pizzashop.repository.PaymentRepository'.(Â•Íåüÿÿÿÿ
+A
+java:S59608"+Remove this assertion from production code.(îþç
+H
+java:S1135z"2Complete the task associated to this TODO comment.(¶Å
+]
+java:S1128"GRemove this unused import 'org.junit.jupiter.params.ParameterizedTest'.(…²üî
+œ
+java:S1186""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Õß ûÿÿÿÿ
+ˆ
+java:S1130³"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÄîÊçþÿÿÿÿ
+h	java:S100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿç²ºûÿÿÿÿ
+i	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓØ¶íÿÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'pizzashop.model.Payment'.(êŸ·‰ùÿÿÿÿ
+r
+java:S1450"WRemove the "menuRepo" field and declare it as a local variable in the relevant methods.(†ë›Íþÿÿÿÿ
+c	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷™šæ
+h	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë‡ïäþÿÿÿÿ
+i	java:S100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÛõžÿÿÿÿÿ
+e
+java:S1128"JRemove this unused import 'org.junit.jupiter.params.provider.ValueSource'.(´õ»‰ÿÿÿÿÿ
+d	java:S100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¢êµ
+i	java:S100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‚‹…øÿÿÿÿ
+a	java:S112³"FDefine and throw a dedicated exception instead of using a generic one.(ÄîÊçþÿÿÿÿ
+d	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñªåÿ

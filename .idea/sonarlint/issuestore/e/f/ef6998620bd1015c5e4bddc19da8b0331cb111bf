@@ -1,0 +1,9 @@
+
+X	java:S125P"<This block of commented-out lines of code should be removed.(ú“÷ú8Ï«œ£/
+X	java:S1255"<This block of commented-out lines of code should be removed.(†€éˆ8¬ä°/
+b
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ãÈˆ¦
+b
+java:S2095N"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ù»ı
+Z
+java:S2147%"DCombine this catch with the one at line 35, which has the same body.(ï­£Ä

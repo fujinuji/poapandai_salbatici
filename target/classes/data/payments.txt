@@ -1,0 +1,9 @@
+1,Cash,100.0
+1,Cash,100.0
+2,Cash,1001.0
+1,Cash,100.0
+1,Cash,90.0
+4,Cash,50.0
+1,Card,150.0
+Mock for Payment, hashCode: 1560702077
+Mock for Payment, hashCode: 507911745
