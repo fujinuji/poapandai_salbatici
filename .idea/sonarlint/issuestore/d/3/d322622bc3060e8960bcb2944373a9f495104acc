@@ -1,0 +1,9 @@
+
+F
+java:S5960%"+Remove this assertion from production code.(éöàşşÿÿÿÿ
+j	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïçµÏ8·õ‡±/
+‰
+java:S1130)"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ïçµÏ8‚±Œ±/
+z
+java:S1450"]Remove the "menuRepository" field and declare it as a local variable in the relevant methods.(¯Ñßş8„‹ò°/
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıØßıÿÿÿÿ

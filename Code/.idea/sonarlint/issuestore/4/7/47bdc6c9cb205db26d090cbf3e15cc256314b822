@@ -1,13 +1,0 @@
-
-S	java:S106F"9Replace this use of System.out or System.err by a logger.(³ã˜ùÿÿÿÿ
-`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Öõš™şÿÿÿÿ
-V	java:S125@"<This block of commented-out lines of code should be removed.(ƒ™§ıúÿÿÿÿ
-^
-java:S1128	"CRemove this unused import 'pizzashop.repository.PaymentRepository'.(Â•Íåüÿÿÿÿ
-t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸’Ê³şÿÿÿÿ
-`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(æÊÀÂûÿÿÿÿ
-o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÚÇ­„
-]
-java:S1128"@Remove this unused import 'pizzashop.repository.MenuRepository'.(Åûœ—8È—€ÿ/
-`	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(Ç‹“³ÿÿÿÿÿ
-V	java:S125'"<This block of commented-out lines of code should be removed.( ™óğşÿÿÿÿ
